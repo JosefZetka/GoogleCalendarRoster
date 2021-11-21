@@ -1,0 +1,4 @@
+Pro upload souboru je potreba pouzit stary IE v Chromu Import CSV filu pise 'Oops. We couldn't ...'
+
+JE NUTNE NEZAPOMENOUT ZMENIT v Zaznam in_case rok resp. nazev listu bude I.22 nebo I.23 nebo I.24
+   
